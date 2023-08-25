@@ -52,3 +52,7 @@ $ docker-compose up -d
 ### Navigate to 
 Navigate to http://localhost:8004/ping
 
+### Fire tests
+```sh
+$ docker-compose exec web python -m pytest
+```
