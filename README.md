@@ -42,6 +42,13 @@ $ docker-compose -v
 ```sh
 $ docker-compose build
 ```
+### Fire up containers in "detached" mode
+```sh
+$ docker-compose up -d
+```
+
+
 
 ### Navigate to 
 Navigate to http://localhost:8004/ping
+
