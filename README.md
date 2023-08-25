@@ -1,4 +1,6 @@
-## Instructions
+
+
+## Non-Docker Instructions
 See testdriven.io link [HERE](https://testdriven.io/courses/tdd-fastapi/getting-started/)
 
 ### Setup
@@ -27,3 +29,19 @@ For development use
 uvicorn app.main:app --reload
 ```
 
+## Docker Instructions
+
+### Make sure Docker is good to go
+```sh
+$ docker -v
+
+$ docker-compose -v
+```
+
+### Build the image
+```sh
+$ docker-compose build
+```
+
+### Navigate to 
+Navigate to http://localhost:8004/ping
