@@ -48,7 +48,6 @@ $ docker-compose up -d
 ```
 
 
-
 ### Navigate to 
 Navigate to http://localhost:8004/ping
 
