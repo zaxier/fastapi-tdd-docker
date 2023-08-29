@@ -1,5 +1,5 @@
 
-![Continuous Integration and Delivery](https://github.com/YOUR_GITHUB_NAMESPACE/fastapi-tdd-docker/workflows/Continuous%20Integration%20and%20Delivery/badge.svg?branch=main)
+![Continuous Integration and Delivery](https://github.com/zaxier/fastapi-tdd-docker/workflows/Continuous%20Integration%20and%20Delivery/badge.svg?branch=main)
 
 
 ## Non-Docker Instructions
