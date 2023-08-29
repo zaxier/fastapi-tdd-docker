@@ -1,4 +1,6 @@
 
+![Continuous Integration and Delivery](https://github.com/YOUR_GITHUB_NAMESPACE/fastapi-tdd-docker/workflows/Continuous%20Integration%20and%20Delivery/badge.svg?branch=main)
+
 
 ## Non-Docker Instructions
 See testdriven.io link [HERE](https://testdriven.io/courses/tdd-fastapi/getting-started/)
